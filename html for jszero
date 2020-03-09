@@ -4,7 +4,8 @@
     <meta charset="UTF-8">
     <title>Razik is awesome</title>
     <script src="https://zero.p2p.shpp.me/console.js"></script>
-    <script src="......"></script>
+    <script src="......">// name js file
+    </script>
 </head>
 <body>
 </body>
